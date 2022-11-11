@@ -7,7 +7,7 @@
   
   <img src="https://github.com/m7m0od/m7m0od/blob/main/office-932926_1920.jpg" align="right" width="25%"/>
 
-Software engineer with Bachelor’s degree in Computers & Artificial Intelligence and familiarity with several
+Web developer with Bachelor’s degree in Computers & Artificial Intelligence and familiarity with several
 programming languages. Seeking for the position of a Programmer to utilize teamwork and leadership skills in
 coordinating the effort of programmers.
 
