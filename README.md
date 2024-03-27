@@ -7,9 +7,8 @@
   
   <img src="https://github.com/m7m0od/m7m0od/blob/main/office-932926_1920.jpg" align="right" width="25%"/>
 
-Web developer with Bachelor’s degree in Computers & Artificial Intelligence and familiarity with several
-programming languages. Seeking for the position of a Programmer to utilize teamwork and leadership skills in
-coordinating the effort of programmers.
+Backend developer with Bachelor’s degree in Computers & Artificial Intelligence and familiarity with several
+programming languages. I have successfully navigated various aspects of backend development, which has allowed me to become skilled at crafting robust and scalable solutions. My commitment to staying current with industry trends and technologies reflects my eagerness to contribute effectively to upcoming challenges.
 
 - 🔭 Programming and coding lover.
 - 💬 Ask me about **Laravel and php**
